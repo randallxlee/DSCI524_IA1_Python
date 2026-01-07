@@ -2,7 +2,7 @@
 
 |        |        |
 |--------|--------|
-| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/pyos_rleeth.svg)](https://pypi.org/project/pyos_rleeth/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyos_rleeth.svg)](https://pypi.org/project/pyos_rleeth/)  |
+| Package | [![Latest PyPI Version](https://img.shields.io/pypi/v/pyos_rleeth.svg)](https://test.pypi.org/project/pyos_rleeth/) [![Supported Python Versions](https://img.shields.io/pypi/pyversions/pyos_rleeth.svg)](https://test.pypi.org/project/pyos_rleeth/)  |
 | Meta   | [![Code of Conduct](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md) |
 
 pyos_rleeth is a project that provides utility functions to add or sum numbers.
